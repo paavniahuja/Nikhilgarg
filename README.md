@@ -68,7 +68,7 @@
 
 ---
 
-Credit: [RitishKhanna](https://github.com/Nikhilgarg-123)
+Credit: [Nikhil Garg](https://github.com/Nikhilgarg-123)
 <br>
 Last Edited on: 12/07/2020
 
