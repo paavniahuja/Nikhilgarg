@@ -10,7 +10,7 @@
 ![Twitter Follow](https://img.shields.io/twitter/follow/ritishkhanna?style=social)
 
 
-<h1>Hey folks, I'm Ritish Khanna <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
+<h1>Hey folks, I'm Nikhil Garg <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=fff&center=true&vCenter=true&width=900&height=110&lines=Passionate+Developer;Competetive+Programmer;Freelancer;CSE+Sophomore)
 
@@ -19,26 +19,24 @@
   
 <!-- ## Hi there 👋 
 
-## I am a Fast Learner, FullStack Developer, Competetive Programmer -->
+## I am a Fast Learner -->
 
 <img align="right" src="./codingcat.gif"/>
 
 ## 🙋‍♂️ About Me
-- 🔭 I’m currently working on Next.JS
-- 🌱 I’m currently learning Three.JS
-- 💬 Ask me about WebDev,C++,DataStructures,Python
+- 🔭 I’m currently working on Automation
+- 🌱 I’m currently learning AWS
+- 💬 Ask me about Wordpress,Python
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love to eat
-- 📫 How to reach me: **[Twitter](http://twitter.com/ritishkhanna)**
+
 
 
 <!-- Connect with me -->
 <h3 align="left">Connect with me:</h3>
 
-<a href="https://twitter.com/ritishkhanna">
-  <img alt="ritishkhanna | Twitter" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111703.svg" />
-</a>
-<a href="https://www.linkedin.com/in/ritishkhanna">
+
+<a href="https://www.linkedin.com/in/nikhil-garg-8n5i2k">
   <img alt="ritishkhanna's LinkdeIN" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111465.svg" />
 </a>
 <a href="https://www.instagram.com/_rk18_">
