@@ -41,7 +41,7 @@
 
 
 <a href="https://www.linkedin.com/in/nikhil-garg-8n5i2k">
-<img src="https://icons8.com/icon/41663/linkedin">
+<img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fdownload.logo.wine%2Flogo%2FLinkedIn%2FLinkedIn-Logo.wine.png&imgrefurl=https%3A%2F%2Fwww.logo.wine%2Flogo%2FLinkedIn&tbnid=80YUqJVUrITfPM&vet=12ahUKEwjlhZ-J2ZX1AhV7_TgGHavKDbIQMygBegUIARCzAQ..i&docid=af6g7-rbPK4eZM&w=3000&h=2000&itg=1&q=linked%20in%20online%20file%20logo&ved=2ahUKEwjlhZ-J2ZX1AhV7_TgGHavKDbIQMygBegUIARCzAQ">
 </a>
 
 <a href="https://wa.me/+918699470729">
