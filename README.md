@@ -3,10 +3,14 @@
 <!-- <img href="https://www.linkedin.com/in/ritishkhanna" src="https://img.shields.io/badge/ritishkhanna-30302f?style=flat&logo=linkedin"/> -->
  
   
-[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=917696972351&text=Hi!)](https://api.whatsapp.com/send?phone=917696972351&text=Hi!)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ritishkhanna18@gmail.com)](mailto:itishkhanna18@gmail.com)
+[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=918699470729&text=Hi!)](https://api.whatsapp.com/send?phone=918699470729&text=Hi!)
+  
+[![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nikhilgarg.drb@gmail.com)](mailto:nikhil@gmail.com)
+  
 [![linkedin badge](https://img.shields.io/badge/ritishkhanna-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/ritishkhanna)
+  
 ![GitHub followers](https://img.shields.io/github/followers/ritishkhanna?style=social)
+  
 ![Twitter Follow](https://img.shields.io/twitter/follow/ritishkhanna?style=social)
 
 
@@ -37,7 +41,7 @@
 
 
 <a href="https://www.linkedin.com/in/nikhil-garg-8n5i2k">
-  Linked in Link
+<img src="https://icons8.com/icon/41663/linkedin">
 </a>
 
 <a href="https://wa.me/+918699470729">
@@ -54,6 +58,11 @@
 <br>
 
 
+<h3 align="center">My GitHub Stats 📊 </h3>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ritishkhanna&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Ritish Khanna :: Profile Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritishkhanna&langs_count=8&theme=tokyonight&layout=compact&hide_border=true" alt="Ritish Khanna :: Top Langs" />
+</p>
 
 -----
 
