@@ -37,13 +37,11 @@
 
 
 <a href="https://www.linkedin.com/in/nikhil-garg-8n5i2k">
-  <img alt="ritishkhanna's LinkdeIN" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111465.svg" />
+  Linked in Link
 </a>
-<a href="https://www.instagram.com/_rk18_">
-  <img alt="ritishkhanna's Instagram" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111421.svg" />
-</a>
-<a href="https://open.spotify.com/user/arc5xpebb1qhqvb2k7blbx9w7">
-  <img alt="ritishkhanna's Spotify" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111627.svg" />
+
+<a href="https://wa.me/+918699470729">
+  Whatsapp 
 </a>
 </p>
 
