@@ -52,12 +52,6 @@
 <br>
 
 
-<h3 align="center">My GitHub Stats 📊 </h3>
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ritishkhanna&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Ritish Khanna :: Profile Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritishkhanna&langs_count=8&theme=tokyonight&layout=compact&hide_border=true" alt="Ritish Khanna :: Top Langs" />
-</p>
-
 -----
 
 #### Thanks for visiting :heart:
