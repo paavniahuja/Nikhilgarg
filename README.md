@@ -7,11 +7,7 @@
   
 [![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nikhilgarg.drb@gmail.com)](mailto:nikhil@gmail.com)
   
-[![linkedin badge](https://img.shields.io/badge/ritishkhanna-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/ritishkhanna)
-  
-![GitHub followers](https://img.shields.io/github/followers/ritishkhanna?style=social)
-  
-![Twitter Follow](https://img.shields.io/twitter/follow/ritishkhanna?style=social)
+[![linkedin badge](https://img.shields.io/badge/Nikhil garg-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/Nikhilgarg-123)
 
 
 <h1>Hey folks, I'm Nikhil Garg <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
