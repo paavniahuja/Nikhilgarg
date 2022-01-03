@@ -1,6 +1,6 @@
 <div align="center">
   
-<!-- <img href="https://www.linkedin.com/in/ritishkhanna" src="https://img.shields.io/badge/ritishkhanna-30302f?style=flat&logo=linkedin"/> -->
+
  
   
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=918699470729&text=Hi!)](https://api.whatsapp.com/send?phone=918699470729&text=Hi!) 
@@ -35,11 +35,11 @@
 
 
 <a href="https://www.linkedin.com/in/nikhil-garg-8n5i2k">
-<img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fdownload.logo.wine%2Flogo%2FLinkedIn%2FLinkedIn-Logo.wine.png&imgrefurl=https%3A%2F%2Fwww.logo.wine%2Flogo%2FLinkedIn&tbnid=80YUqJVUrITfPM&vet=12ahUKEwjlhZ-J2ZX1AhV7_TgGHavKDbIQMygBegUIARCzAQ..i&docid=af6g7-rbPK4eZM&w=3000&h=2000&itg=1&q=linked%20in%20online%20file%20logo&ved=2ahUKEwjlhZ-J2ZX1AhV7_TgGHavKDbIQMygBegUIARCzAQ">
+<img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fdownload.logo.wine%2Flogo%2FLinkedIn%2FLinkedIn-Logo.wine.png&imgrefurl=https%3A%2F%2Fwww.logo.wine%2Flogo%2FLinkedIn&tbnid=80YUqJVUrITfPM&vet=12ahUKEwjlhZ-J2ZX1AhV7_TgGHavKDbIQMygBegUIARCzAQ..i&docid=af6g7-rbPK4eZM&w=3000&h=2000&itg=1&q=linked%20in%20online%20file%20logo&ved=2ahUKEwjlhZ-J2ZX1AhV7_TgGHavKDbIQMygBegUIARCzAQ"> Linked In 
 </a>
-
+&nbsp;
 <a href="https://wa.me/+918699470729">
-  Whatsapp 
+  <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F6%2F6b%2FWhatsApp.svg%2F598px-WhatsApp.svg.png&imgrefurl=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FFile%3AWhatsApp.svg&tbnid=mCBk_6bXXggFAM&vet=12ahUKEwjgl6il2pX1AhWci9gFHZeDDKYQMygAegUIARCtAQ..i&docid=0BWHesb29ORkfM&w=598&h=600&q=whatsapp%20in%20online%20file%20logo&ved=2ahUKEwjgl6il2pX1AhWci9gFHZeDDKYQMygAegUIARCtAQ"> Whatsapp 
 </a>
 </p>
 
