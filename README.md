@@ -3,10 +3,8 @@
 <!-- <img href="https://www.linkedin.com/in/ritishkhanna" src="https://img.shields.io/badge/ritishkhanna-30302f?style=flat&logo=linkedin"/> -->
  
   
-[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=918699470729&text=Hi!)](https://api.whatsapp.com/send?phone=918699470729&text=Hi!)
-  
-[![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nikhilgarg.drb@gmail.com)](mailto:nikhil@gmail.com)
-  
+[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=918699470729&text=Hi!)](https://api.whatsapp.com/send?phone=918699470729&text=Hi!) 
+[![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nikhilgarg.drb@gmail.com)](mailto:nikhil@gmail.com) 
 [![linkedin badge](https://img.shields.io/badge/Nikhilgarg-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/Nikhilgarg-123)
 
 
